@@ -1,1 +1,14 @@
-git commit -m "first commit"
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Portfolio </title>
+</head>
+<body>
+<h1>Starting Day</h1>
+<a href = "https://www.w3schools.com">This is a link </a>
+<p>My name is sai<br>Welcome to my page
+<img src="assets/img/w3schools.jpg" alt = "W3Schools.com" width = "50" height = "50">
+<p>Learning Day</p>
+<p>Day1<p/>
+</body>
+</html>
